@@ -1,0 +1,20 @@
+AN TECHNOLOGY@DESKTOP-RMV8MH9 MINGW64 ~/Desktop/file git (master)
+$ git commit -m 'work'
+[master 557ccbe] work
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 a.docx
+ create mode 100644 b.docx
+
+DAN TECHNOLOGY@DESKTOP-RMV8MH9 MINGW64 ~/Desktop/file git (master)
+$ git push
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 245 bytes | 2.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Afro-calbb/test.git
+   ee8b726..557ccbe  master -> master
+
+DAN TECHNOLOGY@DESKTOP-RMV8MH9 MINGW64 ~/Desktop/file git (master)
